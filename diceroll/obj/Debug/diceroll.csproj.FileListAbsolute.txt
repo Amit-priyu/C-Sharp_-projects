@@ -1,0 +1,7 @@
+C:\Users\Amit Priyu\Desktop\CSHARP\diceroll\bin\Debug\diceroll.exe.config
+C:\Users\Amit Priyu\Desktop\CSHARP\diceroll\bin\Debug\diceroll.exe
+C:\Users\Amit Priyu\Desktop\CSHARP\diceroll\bin\Debug\diceroll.pdb
+C:\Users\Amit Priyu\Desktop\CSHARP\diceroll\obj\Debug\diceroll.csproj.AssemblyReference.cache
+C:\Users\Amit Priyu\Desktop\CSHARP\diceroll\obj\Debug\diceroll.csproj.CoreCompileInputs.cache
+C:\Users\Amit Priyu\Desktop\CSHARP\diceroll\obj\Debug\diceroll.exe
+C:\Users\Amit Priyu\Desktop\CSHARP\diceroll\obj\Debug\diceroll.pdb

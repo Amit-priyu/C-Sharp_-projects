@@ -1,0 +1,4 @@
+C:\Users\Amit Priyu\Desktop\CSHARP\Learning\obj\Debug\net8.0\Learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Priyu\Desktop\CSHARP\Learning\obj\Debug\net8.0\Learning.AssemblyInfoInputs.cache
+C:\Users\Amit Priyu\Desktop\CSHARP\Learning\obj\Debug\net8.0\Learning.AssemblyInfo.cs
+C:\Users\Amit Priyu\Desktop\CSHARP\Learning\obj\Debug\net8.0\Learning.csproj.CoreCompileInputs.cache
