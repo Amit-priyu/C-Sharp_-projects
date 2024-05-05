@@ -1,0 +1,7 @@
+C:\Users\Amit Priyu\Desktop\CSHARP\Area-Shape\bin\Debug\Area-Shape.exe.config
+C:\Users\Amit Priyu\Desktop\CSHARP\Area-Shape\bin\Debug\Area-Shape.exe
+C:\Users\Amit Priyu\Desktop\CSHARP\Area-Shape\bin\Debug\Area-Shape.pdb
+C:\Users\Amit Priyu\Desktop\CSHARP\Area-Shape\obj\Debug\Area-Shape.csproj.AssemblyReference.cache
+C:\Users\Amit Priyu\Desktop\CSHARP\Area-Shape\obj\Debug\Area-Shape.csproj.CoreCompileInputs.cache
+C:\Users\Amit Priyu\Desktop\CSHARP\Area-Shape\obj\Debug\Area-Shape.exe
+C:\Users\Amit Priyu\Desktop\CSHARP\Area-Shape\obj\Debug\Area-Shape.pdb
